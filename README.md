@@ -41,7 +41,7 @@
 </div>
   
  ##
-  
+  ![Snake animation](https://github.com/MichaelAyress/MichaelAyress/blob/output/github-contribution-grid-snake.svg)
  <div> 
   <a href="https://www.instagram.com/michael__ayres/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://twitter.com/MichaelAyresda2" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -51,8 +51,11 @@
    <a href="https://www.facebook.com/michael.ayresdasilva" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   
 </div>
- 
+   
+   
 <p align="center">
    <img  width="1920" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+   
+   
 
