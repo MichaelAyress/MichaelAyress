@@ -29,7 +29,7 @@
   ##
      
   ### Oque estou aprendendo
-   
+   <div style="display: inline_block"><br>
   <img align="center" title="PhP" alt="Micha-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
   <img align="center" title="Typescript" alt="Micha-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" title="React" alt="Micha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
