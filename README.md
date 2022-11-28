@@ -37,7 +37,7 @@
   <img align="center" title="MongoDB" alt="Micha-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> 
   <img align="center" title="nodeJS" alt="Micha-nodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" title="mySQL" alt="Micha-mySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right"  alt="Micha-yoda" height="250" width="250" src="https://media.discordapp.net/attachments/946552504970260544/946578879596888104/Screenshot_20220224-2208243-ANIMATION.gif"
+  <img align="right"  alt="Micha-yoda" height="197" width="212" src="https://media.discordapp.net/attachments/946552504970260544/946578879596888104/Screenshot_20220224-2208243-ANIMATION.gif"
 </div>
   
  ##
